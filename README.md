@@ -1,7 +1,4 @@
-<h2 align="center">
-  Portfolio Website - v2.0<br/>
-  <a href="https://gentle-jalebi-bbc197.netlify.app/" target="_blank">TEMPLE.tech</a>
-</h2>
+
 
 ## Built With
 
